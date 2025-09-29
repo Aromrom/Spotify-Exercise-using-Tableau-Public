@@ -31,6 +31,11 @@ The dataset contains detailed audio features of songs available on Spotify, with
 | `valence`         | Positivity of the track (0.0–1.0) |
 
 ---
+<div class='tableauPlaceholder' id='viz1759149424060' style='position: relative'><noscript><a href='#'><img alt='Global Health insight ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;He&#47;Healthdata_17562987225410&#47;GlobalHealthDashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Healthdata_17562987225410&#47;GlobalHealthDashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;He&#47;Healthdata_17562987225410&#47;GlobalHealthDashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
+
+
+
+---
 
 ## 📌 Insights Visualized
 
@@ -41,19 +46,15 @@ Understand how long songs typically are within each genre (converted to minutes)
 
 🏆 **Top 10 Artists**  
 See the top 10 most frequently appearing artists in the dataset.
-<img width="1544" height="794" alt="image" src="https://github.com/user-attachments/assets/ce2744fd-2488-400a-9cd5-e928de7d2bc6" />
 
 😊 **Average Valence & Key by Genre**  
 Explore the emotional tone (valence) and the most common keys used in each genre.
-<img width="1534" height="789" alt="image" src="https://github.com/user-attachments/assets/b28e614f-3867-4d65-927f-6d924763fc2d" />
 
 💃 **Average Valence, Danceability & Energy by Genre**  
 Compare how danceable, energetic, and emotionally positive different genres are.
-<img width="1540" height="789" alt="image" src="https://github.com/user-attachments/assets/8ddee6f7-8568-4937-8af1-4df9e72b5b77" />
 
 ⏱ **Average Duration (in Minutes) by Genre**  
 A clearer breakdown of how song length varies across genres.
-<img width="1545" height="786" alt="image" src="https://github.com/user-attachments/assets/9a67ad6d-b7e8-40ca-8d6a-6e029a1587a4" />
 
 ---
 
