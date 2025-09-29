@@ -69,7 +69,7 @@ A clearer breakdown of how song length varies across genres.
 ## 🔗 Explore It Yourself!
 
 📊 [**Dashboard Link**](https://public.tableau.com/views/Spotifyexercise_17563059816430/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link/)  
-📥 [**Download Dataset**](https://github.com/ec382b55-36e8-4837-a2d2-3722172bdc2e/)
+📥 [**Download Dataset**](https://raw.githubusercontent.com/Aromrom/Spotify-Exercise-using-Tableau-Public/refs/heads/main/Spotify%20exercise.twbx)
 
 ---
 
